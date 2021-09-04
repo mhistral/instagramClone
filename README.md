@@ -1,6 +1,6 @@
 
 ## About Instagram Clone
-This clones the simple functionality and UI of Instagram and still a work in progress.
+This clones the simple functionality and UI of Instagram and still a work in progress and will try to improve the UI.
 This is a practice Laravel Project to improve myself in in-depth laravel functionalities which includes:
 
 - Laravel 8
@@ -23,5 +23,5 @@ Feel free to clone this and help with your projects!
 4. run php artisan storage:link
 5. run php artisan serve
 
-
+All thanks to CodersTape for the amazing tutorial! https://github.com/coderstape/freecodegram
 
